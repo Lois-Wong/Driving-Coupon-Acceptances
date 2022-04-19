@@ -1,4 +1,4 @@
-# Will-the-Customer-Accept-the-Coupon
+# Will-a-Customer-Accept-the-Coupon
 
 Project Description
 
